@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OGUNTAYO SEMILOGO
 - 👀 I’m interested in ...everything i guess
-- 🌱 I’m currently learning extensive frontend web development with html and css
+- 🌱 I’m currently learning extensive frontend web development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me (semilogooguntayo2020@gmail.com)
 - 😄 Pronouns: He/Him
